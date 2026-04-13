@@ -30,7 +30,7 @@ This bot logs in, navigates to pending evaluations, fills responses, and submits
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/faculty-evaluation-bot.git
+https://github.com/Abpattar/Feedback_Automation.git
 cd faculty-evaluation-bot
 ```
 
